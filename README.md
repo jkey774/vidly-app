@@ -4,13 +4,13 @@ This is course project simulating a video rental application built using MongoDB
 
 ## RESTful API Endpoints
 
-Open:
-https://vidly-application-api.herokuapp.com/api/genres . 
-https://vidly-application-api.herokuapp.com/api/movies . 
+Open: <br />
+https://vidly-application-api.herokuapp.com/api/genres <br />
+https://vidly-application-api.herokuapp.com/api/movies <br />
 
-Protected:
-https://vidly-application-api.herokuapp.com/api/auth . 
-https://vidly-application-api.herokuapp.com/api/users . 
-https://vidly-application-api.herokuapp.com/api/customers . 
-https://vidly-application-api.herokuapp.com/api/rentals . 
-https://vidly-application-api.herokuapp.com/api/returns . 
+Protected: <br />
+https://vidly-application-api.herokuapp.com/api/auth <br />
+https://vidly-application-api.herokuapp.com/api/users <br />
+https://vidly-application-api.herokuapp.com/api/customers <br />
+https://vidly-application-api.herokuapp.com/api/rentals <br />
+https://vidly-application-api.herokuapp.com/api/returns <br />
