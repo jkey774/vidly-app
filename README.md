@@ -2,6 +2,10 @@
 
 This is course project simulating a video rental application built using MongoDB, Express, React, and Node and deployed to Heroku.
 
+## Application URL
+
+https://vidlyapplication.herokuapp.com
+
 ## RESTful API Endpoints
 
 Open: <br />
