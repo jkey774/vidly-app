@@ -1,6 +1,6 @@
 ## Introduction
 
-This is course project simulating a video rental application built using MongoDB, Express, React, and Node and deployed to Heroku.
+This is a course project simulating a video rental application built using MongoDB, Express, React, and Node and deployed to Heroku.
 
 ## Application URL
 
