@@ -21,6 +21,7 @@ https://vidly-application-api.herokuapp.com/api/returns <br />
 
 ## Admin UI Features
 
-To add, edit, or delete a movie login with the following credentials: <br />
+To view and use admin-only interface features which allow a user to add, edit, or delete a movie, login with the following credentials: <br />
+
 Email: admin@test.com <br />
 Password: Test123! <br />
