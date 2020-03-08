@@ -2,6 +2,9 @@
 
 This is a course project simulating a video rental application built using MongoDB, Express, React, and Node and deployed to Heroku.
 
+This app is running on a free dyno so it can be slow to load if the application is unused for a while since it gets unloaded from the server memory. On the first hit it gets loaded and then stays loaded until some time passes without anyone accessing it. 
+Reference: https://devcenter.heroku.com/articles/dynos#dyno-sleeping
+
 ## Application URL
 
 https://vidlyapplication.herokuapp.com
